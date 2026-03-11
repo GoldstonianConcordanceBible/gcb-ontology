@@ -1,0 +1,37 @@
+[
+  {
+    "id": "class.book",
+    "label": "Biblical Book",
+    "description": "A canonical book node within the GCB ecosystem."
+  },
+  {
+    "id": "class.character",
+    "label": "Biblical Character",
+    "description": "A named biblical person or collective figure."
+  },
+  {
+    "id": "class.event",
+    "label": "Biblical Event",
+    "description": "A major event in the biblical narrative."
+  },
+  {
+    "id": "class.theme",
+    "label": "Theological Theme",
+    "description": "A recurring theological or doctrinal theme."
+  },
+  {
+    "id": "class.doctrine",
+    "label": "Doctrine Node",
+    "description": "A doctrinal framework element in the GCB system."
+  },
+  {
+    "id": "class.canon-group",
+    "label": "Canonical Group",
+    "description": "A canonical grouping such as Torah, Prophets, or New Testament."
+  },
+  {
+    "id": "class.ethiopian-distinct-book",
+    "label": "Ethiopian Distinct Book",
+    "description": "A canonical book preserved distinctly in the Ethiopian tradition."
+  }
+]
