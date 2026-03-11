@@ -1,0 +1,26 @@
+{
+  "primary_canon": "81-Book Ethiopian Canon",
+  "canon_groups": [
+    "Torah",
+    "Historical Books",
+    "Wisdom Literature",
+    "Major Prophets",
+    "Minor Prophets",
+    "Deuterocanonical Books",
+    "Ethiopian Canon Additions",
+    "New Testament"
+  ],
+  "ethiopian_distinct_books": [
+    "Enoch",
+    "Jubilees",
+    "1 Meqabyan",
+    "2 Meqabyan",
+    "3 Meqabyan"
+  ],
+  "protection_rules": [
+    "1 Meqabyan must not be merged with 1 Maccabees",
+    "2 Meqabyan must not be merged with 2 Maccabees",
+    "3 Meqabyan must not be merged with 3 Maccabees",
+    "Ethiopian-distinct books must remain explicitly distinct in all downstream systems"
+  ]
+}
