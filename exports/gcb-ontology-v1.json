@@ -1,0 +1,13 @@
+{
+  "ontology_name": "Goldstonian Concordance Bible Ontology",
+  "version": "v1",
+  "canonical_basis": "81-Book Ethiopian Canon",
+  "doctrine_framework": "Mirror → Water → Fire",
+  "source_files": [
+    "ontology/classes.json",
+    "ontology/relationships.json",
+    "ontology/doctrine-ontology.json",
+    "ontology/canon-ontology.json"
+  ],
+  "status": "active"
+}
