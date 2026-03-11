@@ -1,0 +1,20 @@
+[
+  {
+    "id": "doctrine.mirror",
+    "label": "Mirror",
+    "class": "class.doctrine",
+    "description": "Scripture reveals the true condition of humanity and exposes spiritual reality."
+  },
+  {
+    "id": "doctrine.water",
+    "label": "Water",
+    "class": "class.doctrine",
+    "description": "Scripture shows cleansing, renewal, covenant restoration, and transformation."
+  },
+  {
+    "id": "doctrine.fire",
+    "label": "Fire",
+    "class": "class.doctrine",
+    "description": "Scripture shows testing, judgment, purification, and divine refinement."
+  }
+]
