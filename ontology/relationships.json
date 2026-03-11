@@ -1,0 +1,51 @@
+[
+  {
+    "id": "relation.precedes",
+    "label": "precedes",
+    "source_class": "class.book",
+    "target_class": "class.book",
+    "description": "Indicates canonical or sequence order between books."
+  },
+  {
+    "id": "relation.appears-in",
+    "label": "appears-in",
+    "source_class": "class.character",
+    "target_class": "class.book",
+    "description": "Indicates that a character appears in a biblical book."
+  },
+  {
+    "id": "relation.recorded-in",
+    "label": "recorded-in",
+    "source_class": "class.event",
+    "target_class": "class.book",
+    "description": "Indicates that an event is recorded in a biblical book."
+  },
+  {
+    "id": "relation.anchored-in",
+    "label": "anchored-in",
+    "source_class": "class.theme",
+    "target_class": "class.book",
+    "description": "Indicates that a theme is strongly anchored in a given book."
+  },
+  {
+    "id": "relation.reflects",
+    "label": "reflects",
+    "source_class": "class.book",
+    "target_class": "class.doctrine",
+    "description": "Indicates that a biblical book reflects a doctrinal category."
+  },
+  {
+    "id": "relation.belongs-to",
+    "label": "belongs-to",
+    "source_class": "class.book",
+    "target_class": "class.canon-group",
+    "description": "Indicates canonical group membership."
+  },
+  {
+    "id": "relation.distinct-from",
+    "label": "distinct-from",
+    "source_class": "class.book",
+    "target_class": "class.book",
+    "description": "Indicates protected distinction between canonically different books."
+  }
+]
