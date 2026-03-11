@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "gcb": "https://gcbible.org/ontology/",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "description": "http://purl.org/dc/terms/description"
+  },
+  "@id": "gcb:ontology",
+  "@type": "Dataset",
+  "label": "Goldstonian Concordance Bible Ontology",
+  "description": "Ontology layer for the Goldstonian Concordance Bible based on the 81-Book Ethiopian Canon and the Mirror → Water → Fire Doctrine."
+}
